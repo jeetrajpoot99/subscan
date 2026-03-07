@@ -12,10 +12,27 @@
 
 7. git clone https://github.com/jeetrajpoot99/subscan.git
 
-8. cd subdomain 
+8. cd subscan
 
 9. pip install -r requirements.txt
 
 10. echo 'PATH="$PATH:$HOME/go/bin"' >> $HOME/.bashrc && source $HOME/.bashrc
 
 11. python3 scan.py
+
+
+                                 
+(error fix command)
+
+pip uninstall urllib3
+pip install urllib3
+
+pip uninstall requests
+pip install requests==2.29.0
+
+chmod +X scan.py
+termux-setup-storage
+
+
+
+ 
