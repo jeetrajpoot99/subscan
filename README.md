@@ -10,7 +10,7 @@
 
 6. pkg install vim
 
-7. git clone https://github.com/tcatvpn/subdomain.git
+7. git clone https://github.com/jeetrajpoot99/subscan.git
 
 8. cd subdomain 
 
