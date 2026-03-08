@@ -19,10 +19,8 @@
 10. echo 'PATH="$PATH:$HOME/go/bin"' >> $HOME/.bashrc && source $HOME/.bashrc
 
 11. python3 scan.py
-
-
-                                 
-(error fix command)
+                               
+(ERROR FIX COMMAND)
 
 1. pip uninstall urllib3
 2. pip install urllib3
@@ -31,4 +29,4 @@
 4. pip install requests==2.29.0
 
 5. chmod +X scan.py
-6 .termux-setup-storage
+6. termux-setup-storage
