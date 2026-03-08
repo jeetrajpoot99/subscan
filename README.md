@@ -24,15 +24,11 @@
                                  
 (error fix command)
 
-pip uninstall urllib3
-pip install urllib3
+1. pip uninstall urllib3
+2. pip install urllib3
 
-pip uninstall requests
-pip install requests==2.29.0
+3. pip uninstall requests
+4. pip install requests==2.29.0
 
-chmod +X scan.py
-termux-setup-storage
-
-
-
- 
+5. chmod +X scan.py
+6 .termux-setup-storage
